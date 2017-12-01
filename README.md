@@ -1,7 +1,7 @@
 # Stock-Prediction
 
 # How-to-Predict-Stock-Prices-Easily-Demo
-How to Predict Stock Prices Easily - Intro to Deep Learning #7 by Siraj Raval on Youtube
+How to Predict Stock Prices Easily
 
 ##Overview
 
@@ -25,3 +25,4 @@ Use the price history AND two other metrics of your choice to predict the price 
 ##Credits
 
 Credits go to [jaungiers](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction). I've merely created a wrapper to get people started.
+
