@@ -5,7 +5,7 @@ How to Predict Stock Prices Easily
 
 ##Overview
 
-This is the code for [this](https://youtu.be/ftMq5ps503w) video on Youtube by Siraj Raval part of the Udacity Deep Learning nanodegree. We use an [LSTM neural network](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) to predict the closing price of the S&P 500 using a dataset of past prices.
+We use an [LSTM neural network](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) to predict the closing price of the MICROSOFT from past prices.
 
 ##Dependencies
 
